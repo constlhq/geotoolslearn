@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.geotools:gt-cql:19.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-cql/19.0/40044e4aee6b5756e97fc86b07782de9a751bfaf/gt-cql-19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.geotools/gt-cql/19.0/246f18533d9e6d64cdb5ac83dd8d9d8860f209fa/gt-cql-19.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

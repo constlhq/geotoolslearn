@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtslearn.iml" filepath="$PROJECT_DIR$/.idea/modules/jtslearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtslearn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jtslearn_main.iml" group="jtslearn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtslearn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jtslearn_test.iml" group="jtslearn" />
+    </modules>
+  </component>
+</project>
